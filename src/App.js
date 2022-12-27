@@ -1,15 +1,19 @@
 import React from "react";
 import {View,Text,SafeAreaView, Button,TouchableOpacity,StyleSheet, ScrollView} from "react-native";
-import Card from './components/card'
+import Card from "./components/Card";
 
 const App=()=>{
-
-  const hello=()=>{console.log('hello react native')};
-
   return(
     <SafeAreaView style={styles.container}>
       <ScrollView>
-      <Card title="Sezai Öztürk" text="I am learn react native"/>
+      <Card title='Sezai ÖZTÜRK' text='React-Native Learning'/>
+      <Card title='Sezai ÖZTÜRK' text='React-Native Learning'/>
+      <Card title='Sezai ÖZTÜRK' text='React-Native Learning'/>
+      <Card title='Sezai ÖZTÜRK' text='React-Native Learning'/>
+      <Card title='Sezai ÖZTÜRK' text='React-Native Learning'/>
+      <Card title='Sezai ÖZTÜRK' text='React-Native Learning'/>
+      <Card title='Sezai ÖZTÜRK' text='React-Native Learning'/>
+      <Card title='Sezai ÖZTÜRK' text='React-Native Learning'/>
       </ScrollView>
     </SafeAreaView>
   );
@@ -17,8 +21,7 @@ const App=()=>{
 
 const styles=StyleSheet.create({
   container:{
-    flex:1,
-    backgroundColor:'#e0e0e0'
+    flex:1,backgroundColor:'#e0e0e0'
   }
 })
 export default App;

@@ -1,38 +1,31 @@
 import { StyleSheet } from "react-native";
 
 export default StyleSheet.create({
-      card_container:{
+    container:{
         backgroundColor:'white',
-        borderWidth:1,
-        borderColor:'gray',
-        borderRadius:10,
-        margin:10
-      },
-      card_body:{
-        padding:10
-      },
-      card_title:{
-          fontSize:18,
-          fontWeight:"bold",
-          margin:10,
-          marginBottom:8
-      },
-      card_text:{
-          fontSize:15,
-          margin:10,
-          marginTop:8
-    
-      },
-      card_button_container:{
-        backgroundColor:'#00C2FF',
+        margin:10,
+        borderRadius:10
+    },
+    title:{
         padding:10,
+        fontSize:18,
+        fontWeight:'bold'
+    },
+    text:{
+        fontSize:15,
+        padding:10
+    },
+    button:{
+        backgroundColor:'green',
         alignItems:"center",
+        padding:10,
         borderBottomLeftRadius:10,
         borderBottomRightRadius:10
-      },
-      card_button_text:{
+    },
+    button_title:{
         color:'white',
-        fontSize:18,
-        fontWeight:"bold"
-      }
+        fontWeight:'bold',
+        fontSize:20
+    }
+
 })

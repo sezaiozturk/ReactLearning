@@ -1,0 +1,37 @@
+[
+  {
+    "u_id": 0,
+    "author": "Omkar Godbole",
+    "title": "Bulls Exit BitMEX Bitcoin Futures Market",
+    "description": "Since the announcement from U.S. regulators, BitMEX has witnessed an outflow of more than 40,000 bitcoins, currently worth more than $422 million.",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ygtkotlin-259c0.appspot.com/o/profilPhoto%2Fbc0943a3-dda2-4629-8fa7-ef0e1d7c2fb2.jpeg?alt=media&token=82567b78-6ce3-4aa0-8b55-fa15bcbc6431"
+  },
+  {
+    "u_id": 1,
+    "author": "Benjamin Pirus",
+    "title": "Coinbase customers can now dodge a bank",
+    "description": "New update from Coinbase quickens the transmutation of crypto into fiat. Coinbase has unveiled a faster way for its customers to move digital currencies out of crypto and into their bank accounts.",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ygtkotlin-259c0.appspot.com/o/post%2F96f5d4d1-cfc4-4a38-86a3-0ac53902cd09.jpeg?alt=media&token=6b5eb806-c8bd-4482-88ca-ceb23250c834"
+  },
+  {
+    "u_id": 2,
+    "author": "Malwarebytes Labs",
+    "title": "VideoBytes: Ransomware gets wasted!",
+    "description": "On today's VideoBytes, we look at how ransomware is on the rise, attacking corporations with malware that not only encrypts files, but also steals it.",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ygtkotlin-259c0.appspot.com/o/profilPhoto%2Fe1836732-ca79-428d-8485-170ba5b8de52.jpeg?alt=media&token=1d8f8580-d593-4612-8a78-f92dc3febbdb"
+  },
+  {
+    "u_id": 3,
+    "author": "Daniel Sparks",
+    "title": "Why Tesla Stock Fell Sharply Friday Morning - Motley Fool",
+    "description": "Shares are down despite Tesla reporting record third-quarter deliveries. Shares of electric-car maker Tesla(NASDAQ:TSLA) fell Friday morning, declining 5% a few minutes into market open.",
+    "imageUrl": "https://g.foolcdn.com/editorial/images/593799/stock-down.jpg"
+  },
+  {
+    "u_id": 4,
+    "author": "Jessica Bursztynsky",
+    "title": "Twilio hits new 52-week high as stock",
+    "description": "Shares of Twilio extended its gains into Friday, reaching a 52-week high, after the company said in a filing that it expects better-than-expected third-quarter revenue.",
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/105737636-1550147305726gettyimages-1034802076rr.jpg?v=1601647142"
+  }
+]
